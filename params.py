@@ -17,4 +17,5 @@ PARAMS = \
 	'weight_decay': 0.000001,
 	'val_ratio': 0.1,
 	'test_ratio': 0.1
+    
 }

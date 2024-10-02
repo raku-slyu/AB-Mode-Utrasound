@@ -24,7 +24,6 @@ author = "Letizia Gionfrida and Daekyum Kim and Yichu Jin and Walsh, {Conor J.} 
 year = "2024",
 language = "English",
 note = "IEEE RAS EMBS 10th International Conference on Biomedical Robotics and Biomechatronics (BioRob 2024) ; Conference date: 01-09-2024 Through 30-09-2024",
-
 }
 
 ```
