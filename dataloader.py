@@ -14,3 +14,4 @@ class DataLoaderWhole(object):
 
     def __len__(self):
         return len(self.ultrasound_data)
+

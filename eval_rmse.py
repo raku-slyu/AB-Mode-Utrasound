@@ -15,3 +15,4 @@ for cur_file in files:
 	pred = y[:,1]
 	print(cur_file)
 	print(np.mean((gt-pred)**2)**.5)
+

@@ -40,3 +40,4 @@ def hampel_filter(input_array, window_size, n_sigmas=3):
     new_array[indices_series] = rolling_median[indices]
     
     return new_array, indices_series
+
