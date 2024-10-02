@@ -13,7 +13,7 @@
 
 
 
-## How to cite
+## Citations
 
 If you find this code useful in your research, please consider cite our paer by using the following BibTeX entrys.
 
